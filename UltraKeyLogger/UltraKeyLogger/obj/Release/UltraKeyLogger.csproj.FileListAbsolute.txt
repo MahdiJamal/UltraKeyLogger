@@ -1,0 +1,8 @@
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\bin\Release\UltraKeyLogger.exe.config
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\bin\Release\UltraKeyLogger.exe
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\bin\Release\UltraKeyLogger.pdb
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\obj\Release\UltraKeyLogger.csproj.AssemblyReference.cache
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\obj\Release\UltraKeyLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\obj\Release\UltraKeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\obj\Release\UltraKeyLogger.exe
+C:\Users\XxMaHdIxX\Desktop\Projects\CSharp Projects\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\UltraKeyLogger\obj\Release\UltraKeyLogger.pdb
