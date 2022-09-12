@@ -3,7 +3,7 @@
 ## Program features
 
 * Show keyboard clicks
-* Display the text pasted with ( Ctrl + V ) or copied with ( Ctrl +C ).
+* Display the text pasted with ( Ctrl + V ) or copied with ( Ctrl +C ) .
 * Hide the console window
 * Write KeyLogs to log file 
 * Print KeyLog to console
